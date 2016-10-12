@@ -1,0 +1,6 @@
+C:\Users\Adare\Documents\OOP Exercises\Lab1Del1\Lab1Del1\bin\Debug\Lab1Del1.exe.config
+C:\Users\Adare\Documents\OOP Exercises\Lab1Del1\Lab1Del1\bin\Debug\Lab1Del1.exe
+C:\Users\Adare\Documents\OOP Exercises\Lab1Del1\Lab1Del1\bin\Debug\Lab1Del1.pdb
+C:\Users\Adare\Documents\OOP Exercises\Lab1Del1\Lab1Del1\obj\Debug\Lab1Del1.csprojResolveAssemblyReference.cache
+C:\Users\Adare\Documents\OOP Exercises\Lab1Del1\Lab1Del1\obj\Debug\Lab1Del1.exe
+C:\Users\Adare\Documents\OOP Exercises\Lab1Del1\Lab1Del1\obj\Debug\Lab1Del1.pdb
