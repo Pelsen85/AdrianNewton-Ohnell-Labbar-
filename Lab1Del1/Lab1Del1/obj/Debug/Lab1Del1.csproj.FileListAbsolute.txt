@@ -1,0 +1,6 @@
+c:\users\adare\documents\visual studio 2015\Projects\Lab1Del1\Lab1Del1\bin\Debug\Lab1Del1.exe.config
+c:\users\adare\documents\visual studio 2015\Projects\Lab1Del1\Lab1Del1\bin\Debug\Lab1Del1.exe
+c:\users\adare\documents\visual studio 2015\Projects\Lab1Del1\Lab1Del1\bin\Debug\Lab1Del1.pdb
+c:\users\adare\documents\visual studio 2015\Projects\Lab1Del1\Lab1Del1\obj\Debug\Lab1Del1.csprojResolveAssemblyReference.cache
+c:\users\adare\documents\visual studio 2015\Projects\Lab1Del1\Lab1Del1\obj\Debug\Lab1Del1.exe
+c:\users\adare\documents\visual studio 2015\Projects\Lab1Del1\Lab1Del1\obj\Debug\Lab1Del1.pdb
