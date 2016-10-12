@@ -14,7 +14,5 @@ namespace Lab1Del1
             runtime.Start();
 
         }
-
-
     }
 }
