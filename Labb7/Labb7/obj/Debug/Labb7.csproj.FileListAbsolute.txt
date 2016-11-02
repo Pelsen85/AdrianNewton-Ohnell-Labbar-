@@ -1,0 +1,6 @@
+C:\Users\Adare\Documents\OOP Exercises\Labb7\Labb7\bin\Debug\Labb7.exe.config
+C:\Users\Adare\Documents\OOP Exercises\Labb7\Labb7\bin\Debug\Labb7.exe
+C:\Users\Adare\Documents\OOP Exercises\Labb7\Labb7\bin\Debug\Labb7.pdb
+C:\Users\Adare\Documents\OOP Exercises\Labb7\Labb7\obj\Debug\Labb7.csprojResolveAssemblyReference.cache
+C:\Users\Adare\Documents\OOP Exercises\Labb7\Labb7\obj\Debug\Labb7.exe
+C:\Users\Adare\Documents\OOP Exercises\Labb7\Labb7\obj\Debug\Labb7.pdb
