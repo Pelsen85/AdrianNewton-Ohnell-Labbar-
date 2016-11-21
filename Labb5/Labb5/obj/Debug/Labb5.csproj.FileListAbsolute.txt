@@ -1,0 +1,6 @@
+C:\Users\Adare\Documents\OOP Exercises\Labb5\Labb5\bin\Debug\Labb5.exe.config
+C:\Users\Adare\Documents\OOP Exercises\Labb5\Labb5\bin\Debug\Labb5.exe
+C:\Users\Adare\Documents\OOP Exercises\Labb5\Labb5\bin\Debug\Labb5.pdb
+C:\Users\Adare\Documents\OOP Exercises\Labb5\Labb5\obj\Debug\Labb5.csprojResolveAssemblyReference.cache
+C:\Users\Adare\Documents\OOP Exercises\Labb5\Labb5\obj\Debug\Labb5.exe
+C:\Users\Adare\Documents\OOP Exercises\Labb5\Labb5\obj\Debug\Labb5.pdb
