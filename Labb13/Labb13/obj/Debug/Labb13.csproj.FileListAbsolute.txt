@@ -1,0 +1,6 @@
+C:\Users\Adare\Documents\OOP Exercises\Labb13\Labb13\bin\Debug\Labb13.exe.config
+C:\Users\Adare\Documents\OOP Exercises\Labb13\Labb13\bin\Debug\Labb13.exe
+C:\Users\Adare\Documents\OOP Exercises\Labb13\Labb13\bin\Debug\Labb13.pdb
+C:\Users\Adare\Documents\OOP Exercises\Labb13\Labb13\obj\Debug\Labb13.csprojResolveAssemblyReference.cache
+C:\Users\Adare\Documents\OOP Exercises\Labb13\Labb13\obj\Debug\Labb13.exe
+C:\Users\Adare\Documents\OOP Exercises\Labb13\Labb13\obj\Debug\Labb13.pdb
